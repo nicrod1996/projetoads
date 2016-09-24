@@ -1,0 +1,19 @@
+*{
+	font-family: "Arial";
+}
+
+h1{
+	color:#333;
+	
+}
+.game{
+	padding: 2px;
+	border:solid 2px #333;
+	border-radius: 2px;
+}
+.footer{
+	text-align: center;
+}
+.footer p{
+	color: #B3C4C9;
+}
